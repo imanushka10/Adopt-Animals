@@ -6,8 +6,6 @@ import SearchParams from "./SearchParams";
 import ThemeContext from "./ThemeContext"
 
 
-
-
 const App = () => {
   const theme = useState("peru");
   return (
