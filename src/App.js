@@ -9,7 +9,7 @@ import ThemeContext from "./ThemeContext"
 
 
 const App = () => {
-  const theme = useState("orange");
+  const theme = useState("peru");
   return (
     <>
       <ThemeContext.Provider value={theme}>
